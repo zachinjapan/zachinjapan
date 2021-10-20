@@ -1,6 +1,4 @@
 ### Hi there 👋, my name is Zach Stone
-#### Frontend Web Developer
-Kon-ni-chi-wa
 
 I am a frontend web developer specializing in the Javascript MERN framework. I am also fluent in Japanese.
 
