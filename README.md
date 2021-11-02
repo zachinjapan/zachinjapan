@@ -1,6 +1,6 @@
-# Hi there 👋 ! I am Zach.
+# Hi there 👋 ! I'm Zach.
 
-A former English Teacher, now a Software Engineer, I am somewhat fluent in Japanese, code, and music.
+A former English Teacher, now a Software Engineer. Fluent in Japanese, code, and music.
 
 
 ## Skills and Experience:
