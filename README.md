@@ -1,6 +1,6 @@
-# Hi there 👋 ! I'm Zach.
+# Konichiwa.  👋 ! I'm Zach.
 
-A former English Teacher, now a Software Engineer. Fluent in Japanese, code, and music.
+I'm an American fluent in Japanese who is working towards becoming a front-end web engineer in Japan.
 
 
 ## Skills and Experience:
