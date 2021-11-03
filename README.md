@@ -19,7 +19,7 @@ I'm an American fluent in Japanese who is working towards becoming a front-end w
   <img alt = "MongoDB" src = "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=whitee&style=flat" />
 </p>
   
-- 🌱  I’m currently learning React and MongoDB.
+- 🌱  I’m currently learning React and MongoDB while doing the Fullstack Acadamy bootcamp prep-course.
 - 💬  Ask me about web development.
 - ⚡  Fun fact: I love playing Japanese drums and was a part of a "wadaiko" group for over 2 years.
 <br> 
