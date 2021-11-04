@@ -1,6 +1,6 @@
 # Konichiwa.  👋 ! I'm Zach.
 
-I'm an American fluent in Japanese who is working towards becoming a front-end web engineer in Japan.
+I'm an American fluent in Japanese who is working towards becoming a front-end web developer in Japan.
 
 
 ## Skills and Experience:
