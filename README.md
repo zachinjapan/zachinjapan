@@ -6,7 +6,7 @@ I'm an American fluent in Japanese who is working towards becoming a front-end w
 ## Skills and Experience:
 <!--  HTML / CSS / BOOTSTRAP / Javascript / SASS / NodeJS / Express / React / MongoDB -->
 
-# Fontend
+#### Fontend
 
 <p>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />
@@ -17,14 +17,14 @@ I'm an American fluent in Japanese who is working towards becoming a front-end w
   <img alt="SASS" src = "https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=whitee&style=flat" />
  </p>
  
- # Backend
+ #### Backend
  
  <p>
   <img alt="NodeJS" src = "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=whitee&style=flat" />
   <img alt="Express" src = "https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFBe&style=flat" />
   </p>
   
-# JS Frameworks
+#### JS Frameworks
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />
