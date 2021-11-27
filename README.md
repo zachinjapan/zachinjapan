@@ -3,7 +3,7 @@
 I'm an American fluent in Japanese who is working towards becoming a web developer in Japan.
 
 
-## Skills and Experience:
+## Experience:
 <!--  HTML / CSS / BOOTSTRAP / Javascript / SASS / NodeJS / Express / React / MongoDB -->
 
 #### Fontend
