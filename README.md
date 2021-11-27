@@ -24,7 +24,7 @@ I'm an American fluent in Japanese who is working towards becoming a web develop
   <img alt="Express" src = "https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFBe&style=flat" />
   </p>
   
-#### JS Frameworks
+#### Frameworks
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />
