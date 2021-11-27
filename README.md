@@ -28,6 +28,7 @@ I'm an American fluent in Japanese who is working towards becoming a web develop
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />
+  <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white&style=flat" />
 </p>
   
 - 🌱  I’m currently learning React Redux and Typescript
