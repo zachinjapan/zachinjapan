@@ -31,8 +31,8 @@ I'm an American fluent in Japanese who is working towards becoming a web develop
 <!--   <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white&style=flat" /> -->
 </p>
   
-- 🌱  I’m currently learning React, Typescript, and Gatsby
-- 💬  Ask me about Eloquent Javascript.
+- 🌱  I’m currently learning React, and Gatsby
+- 💬  Ask me about Ramen.
 - ⚡  Fun fact: I love playing Japanese drums and was a part of a "wadaiko" group for over 2 years.
 <br> 
 
