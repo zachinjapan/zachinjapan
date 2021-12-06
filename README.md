@@ -13,7 +13,7 @@ I'm an American fluent in Japanese who is working towards becoming a web develop
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
-<!--  <img alt= "Typescript" src = "https://badgen.net/badge/icon/typescript?icon=typescript&label&style=flat" /> -->
+ <img alt= "Typescript" src = "https://badgen.net/badge/icon/typescript?icon=typescript&label&style=flat" />
   <img alt="SASS" src = "https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=whitee&style=flat" />
  </p>
  
