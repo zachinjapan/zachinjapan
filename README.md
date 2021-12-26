@@ -1,6 +1,6 @@
 # Konichiwa.  👋 ! I'm Zach.
 
-I'm an American, fluent in Japanese, who is looking for a front end web developer position in Japan
+I'm an American, fluent in Japanese, who is looking for a front end web developer position using React in Japan
 
 
 ## Experience:
