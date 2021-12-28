@@ -1,6 +1,6 @@
 # Konichiwa.  👋 ! I'm Zach.
 
-I'm an American, fluent in Japanese, who is looking for a front end web developer position using React in Japan
+I'm an American, fluent in Japanese, who is looking for a front-end web developer position using React in Japan
 
 
 ## Experience:
@@ -29,7 +29,7 @@ I'm an American, fluent in Japanese, who is looking for a front end web develope
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />
   <img alt= "Redux" src ="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white&style=flat" />
-<!--   <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white&style=flat" /> -->
+  <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white&style=flat" />
 </p>
   
 - 🌱  I’m currently learning React, and Gatsby
