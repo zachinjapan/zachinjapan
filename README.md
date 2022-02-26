@@ -4,7 +4,6 @@ I'm an American, fluent in Japanese, who is looking for a web developer position
 
 
 ## Experience:
-<!--  HTML / CSS / BOOTSTRAP / Javascript / SASS / NodeJS / Express / React / MongoDB -->
 
 #### Fontend
 
