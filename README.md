@@ -30,6 +30,12 @@ I'm an American, fluent in Japanese, who is looking for a web developer position
   <img alt= "Redux" src ="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white&style=flat" />
   <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white&style=flat" />
 </p>
+
+#### Hosting Providers
+<p>
+  <img alt ="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&style=flat" />
+  <img alt ="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&style=flat" />
+</p>
   
 - 🌱  I’m currently learning TypeScript
 - 💬  Ask me about ramen.
