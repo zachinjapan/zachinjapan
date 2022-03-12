@@ -37,7 +37,7 @@ I'm an American, fluent in Japanese, who is looking for a web developer position
   <img alt ="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&style=flat" />
 </p>
   
-- 🌱  I’m currently learning TypeScript
+- 🌱  I’m currently learning TypeScript and C#
 - 💬  Ask me about ramen.
 - ⚡  Fun fact: I love playing Japanese drums and was a part of a "wadaiko" group for over 2 years.
 <br> 
