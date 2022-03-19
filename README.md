@@ -48,5 +48,3 @@ I'm an American, fluent in Japanese, who is looking for a web developer position
 
 
 <a target="_blank" href="https://www.codewars.com/r/C6HkBg"><img src="https://www.codewars.com/users/zachinjapan/badges/small" alt="codewars badge small" /></a>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zachinjapan&label=Profile%20views&color=0e75b6&style=flat" alt="zachinjapan" /> </p>
