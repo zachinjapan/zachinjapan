@@ -1,6 +1,6 @@
 # Konichiwa.  👋 ! I'm Zach.
 
-I'm an American, fluent in Japanese, who is looking for a web developer position in Japan
+Hi, I'm Zach. I'm a passionate web developer with business-level Japanese.
 
 
 ## Experience:
