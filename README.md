@@ -1,6 +1,6 @@
 # Konichiwa.  👋 ! I'm Zach.
 
-Hi, I'm Zach. I'm a self taught web developer with business-level Japanese.
+I'm a self taught web developer with business-level Japanese.
 
 
 ## Experience:
