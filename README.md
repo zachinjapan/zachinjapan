@@ -1,50 +1,37 @@
-# Konichiwa.  👋 ! I'm Zach.
+<h1 align="center">Hi 👋, I'm Zach Stone</h1>
+<h3 align="center">A self-taught web developer who can speak Japanese</h3>
 
-I'm a self taught web developer with business-level Japanese.
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zachinjapan" alt="zachinjapan" /></a> </p>
 
-## Experience:
+<p align="left"> <a href="https://twitter.com/zachstonewebdev" target="blank"><img src="https://img.shields.io/twitter/follow/zachstonewebdev?logo=twitter&style=for-the-badge" alt="zachstonewebdev" /></a> </p>
 
-#### Fontend
+- 🔭 I’m currently working on [My Anime collection](https://github.com/zachinjapan/My-Anime-Collection)
 
-<p>
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
- <img alt= "Typescript" src = "https://badgen.net/badge/icon/typescript?icon=typescript&label&style=flat" />
- </p>
- 
- #### Backend
- 
- <p>
-  <img alt="NodeJS" src = "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=whitee&style=flat" />
-  <img alt="Express" src = "https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFBe&style=flat" />
-  <img alt="MongoDB" src = "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&style=flat"
-  </p>
-  
-#### Frameworks
+- 🌱 I’m currently learning **Date Structures and Algorithms**
 
-<p>
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />
-  <img alt= "Redux" src ="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white&style=flat" />
-  <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white&style=flat" />
+- 👨‍💻 All of my projects are available at [https://zstone.dev/](https://zstone.dev/)
+
+- 📝 I regularly write articles on [https://zachinjapan.com/](https://zachinjapan.com/)
+
+- 📫 How to reach me **zach.stone.developer@gmail.com**
+
+- 📄 Look at my Resume [https://docs.google.com/document/d/1r5U9UF6FJc0zr_L98dpIwj9Xe0-0CtoVfoux4nxD-g8/edit?usp=sharing](https://docs.google.com/document/d/1r5U9UF6FJc0zr_L98dpIwj9Xe0-0CtoVfoux4nxD-g8/edit?usp=sharing)
+
+- ⚡ Fun fact **I enjoy playing the Japanese arcade game Chunithm**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/zachstonewebdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zachstonewebdev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zachinjapan888" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zachinjapan888" height="30" width="40" /></a>
 </p>
 
-#### Hosting Providers
-<p>
-  <img alt ="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&style=flat" />
-  <img alt ="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&style=flat" />
-</p>
-  
-- 🌱  I’m currently learning TypeScript and C#
-- 💬  Ask me about ramen.
-- ⚡  Fun fact: I love playing Japanese drums and was a part of a "wadaiko" group for over 2 years.
-<br> 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zachinjapan&layout=compact&langs_count=10&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zachinjapan&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 
-<a target="_blank" href="https://www.codewars.com/r/C6HkBg"><img src="https://www.codewars.com/users/zachinjapan/badges/small" alt="codewars badge small" /></a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zachinjapan&show_icons=true&locale=en&layout=compact" alt="zachinjapan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zachinjapan&show_icons=true&locale=en" alt="zachinjapan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zachinjapan&" alt="zachinjapan" /></p>
