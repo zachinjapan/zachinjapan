@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/zachstonewebdev" target="blank"><img src="https://img.shields.io/twitter/follow/zachstonewebdev?logo=twitter&style=for-the-badge" alt="zachstonewebdev" /></a> </p>
 
-- 🔭 I’m currently working on [My Anime collection](https://github.com/zachinjapan/My-Anime-Collection)
+- 🔭 I’m currently working on [Riffs!](https://github.com/zachinjapan/vue-music-app)
 
 - 🌱 I’m currently learning **Date Structures and Algorithms**
 
