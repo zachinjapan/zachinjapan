@@ -6,12 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/zachstonewebdev" target="blank"><img src="https://img.shields.io/twitter/follow/zachstonewebdev?logo=twitter&style=for-the-badge" alt="zachstonewebdev" /></a> </p>
 
+-  👨‍💻 My website [https://zstone.dev/](https://zstone.dev/) ポルトフォリオサイト
+
 - 🔭 I’m currently working on [My Anime Collection](https://github.com/zachinjapan/My-Anime-Collection)
 
 - 🌱 I’m currently learning **Date Structures and Algorithms**
-
-- 👨‍💻 All of my projects are available at [https://zstone.dev/](https://zstone.dev/) ポルトフォリオサイト
-
 
 
 - 📝 I regularly write articles on [https://zachinjapan.com/](https://zachinjapan.com/)
